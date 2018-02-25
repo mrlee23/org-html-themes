@@ -1,3 +1,8 @@
+img.center {
+	display: block;
+	margin: auto;
+}
+
 td > img {
 	width:100px;
 	border:0px;
